@@ -29,7 +29,7 @@ This project aims to integrate approximately 3000 photographs hosted in a IIIF-c
 - Semantic Search: Advanced search capabilities based on RDF and graph data.
 - Interoperability: Supports integration with other IIIF and RDF-based systems.
 
-##logicalorganization
+## Project Logical Organization
 
 The project has a one to one map between each folder/album and a logical container for each album.
 MORE About each Image URL and its xoresponding IIIF Manifest HERE
