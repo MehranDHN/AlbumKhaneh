@@ -39,6 +39,7 @@ We use a dash[**-**] character to seperate  the **Prefix**, **Album code** and s
 This rule has an exception that we will refer to it later.
 By this naming convention each photograp has a unique code that enables us to logically grouped  the photogethes together as an album, thanks to tagging system in **Internet Archive** by using the **Genre** metadata key which is a Taxonomy/Clickable field.
 - Album **GPAK-0100** 
+-- <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title"> GPAK-0100 album sorted by title</a>
 - Album **GPAK-0108** 
 - Album **GPAK-0114**
 - 
