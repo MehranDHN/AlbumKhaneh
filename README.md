@@ -44,7 +44,7 @@ By this naming convention, each photograph has a unique code that enables us to 
 - - <a href="https://archive.org/search?query=genre%3A%22GPAK-0108%22&sort=title"> GPAK-0108 album sorted by title.</a>- 
 - Album **GPAK-0114**
 - - <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title"> GPAK-0114 album sorted by title.</a>
-MORE About each Image URL and its corresponding IIIF Manifest HERE
+
 
 ## Architecture
 
