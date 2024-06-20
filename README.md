@@ -32,6 +32,14 @@ This project aims to integrate approximately 3000 photographs hosted in a IIIF-c
 ## Project Logical Organization
 
 The project has a one to one map between each folder/album and a logical container for each album.
+Based on the original naming convention we assume that each album should have a four digits numeric code from 0100 to 1429 but not sequentially and there are many gaps between them. 
+In this project every imags have thir own unique code starting from static shared *GPAK* prefix.
+We also assume that each album contains less than 1000 photograph so the image code s are always a two digit number ,zero padded for those less than 10.
+We use a dash[-] character to seperate prefix, Album codes and sequential image codes as **GPAK**-**AAAA**-**nnnn** .By this naming convention each photograp has a unique code that logically grouped together as an album with tagging system in **Internet Archive** using **Genre** metadata key which is a Taxonomy/Clickable field.
+- Album **GPAK-0100** 
+- Album **GPAK-0108** 
+- Album **GPAK-0114**
+- 
 MORE About each Image URL and its xoresponding IIIF Manifest HERE
 
 ## Architecture
