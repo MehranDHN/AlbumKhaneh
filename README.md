@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to integrate approximately 3000 photographs hosted in a IIIF-compliant manner on the Internet Archive with RDF (Resource Description Framework) and graph data technologies. By leveraging RDF and graph data, we want to enhance the discoverability and interconnectivity of the photographic collection, enabling rich semantic queries and advanced data relationships.
+This project aims to integrate approximately 3000 photographs hosted in an **IIIF-compliant** manner on the **Internet Archive** compatible with **RDF** (Resource Description Framework) and graph data technologies.By leveraging *RDF* and common vocabularies/Ontology providers such as **WikiData** and **DBPedia** we want to enhance the discoverability and interconnectivity of the photographic collection, enabling rich semantic queries and advanced data relationships. This is our priority, however, thanks to IIIF 3.0, the presentation quality improved vastly as we will describe later. 
 
 <img src = "https://ids.si.edu/ids/iiif/FS-FSA_A.4_2.12.GN.23.07/full/full/0/default.jpg" alt="">
 
@@ -39,11 +39,11 @@ We use a dash[**-**] character to separate  the **Prefix**, **Album code**, and 
 This rule has an exception that we will refer to it later.
 By this naming convention, each photograph has a unique code that enables us to logically group  the photographs together as an album, thanks to the tagging system in **Internet Archive** by using the **Genre** metadata key which is a Taxonomy/Clickable field.
 - Album **GPAK-0100** 
-- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0100%22&sort=title"> GPAK-0100 album sorted by title.</a>
+- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0100%22&sort=title" target="_blank"> GPAK-0100 album sorted by title.</a>
 - Album **GPAK-0108**
-- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0108%22&sort=title"> GPAK-0108 album sorted by title.</a>- 
+- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0108%22&sort=title" target="_blank"> GPAK-0108 album sorted by title.</a>- 
 - Album **GPAK-0114**
-- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title"> GPAK-0114 album sorted by title.</a>
+- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title" target="_blank"> GPAK-0114 album sorted by title.</a>
 
 
 ## Architecture
@@ -51,8 +51,8 @@ By this naming convention, each photograph has a unique code that enables us to 
 The project architecture consists of the following components:
 
 1. IIIF Image Hosting: Photographs are hosted on the Internet Archive, which provides IIIF 3.0-compliant image services.
-2. RDF Data Store: Eaxh Agential, Temporal and Spatial Data in each photograph interconnected with related entries in WikiData but they are at mimum level and extra works needed to create usefull Knowledge Graph for each album and then to merge them in a single independent Fraph Knowledge.
-We intent to implement special normalizer to normalize the IIIF Manifest of each image and create proper RDF statements from their metadata.
+2. RDF Data Store: Each Agential, Temporal, and Spatial Data in the photographs are interconnected with related entries in WikiData but right now they are at a minimum level and extra work is needed to create a useful Knowledge Graph for each album and then to merge them in a single independent Graph Knowledge.
+We intend to implement a special normalizer to normalize the IIIF 3.0 Manifest of each image and create proper RDF statements from their metadata.
 3. Graph Database: Used to store and query RDF data, supporting complex relationships and queries.
 4. Web Interface: A user-friendly web interface for searching and viewing photographs.
 
