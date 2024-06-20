@@ -31,11 +31,13 @@ This project aims to integrate approximately 3000 photographs hosted in a IIIF-c
 
 ## Project Logical Organization
 
-The project has a one to one map between each folder/album and a logical container for each album.
-Based on the original naming convention we assume that each album should have a four digits numeric code from 0100 to 1429 but not sequentially and there are many gaps between them. 
-In this project every imags have thir own unique code starting from static shared *GPAK* prefix.
-We also assume that each album contains less than 1000 photograph so the image code s are always a two digit number ,zero padded for those less than 10.
-We use a dash[-] character to seperate prefix, Album codes and sequential image codes as **GPAK**-**AAAA**-**nnnn** .By this naming convention each photograp has a unique code that logically grouped together as an album with tagging system in **Internet Archive** using **Genre** metadata key which is a Taxonomy/Clickable field.
+The project has a one to one map between each folder/album and a logical container in Internet Archive.
+Based on the original naming convention we assume that each album should have a four digits numeric code from 0100 to 1429 but not sequentially because there are many gaps between them and we don't now why.
+In this project every Photograph has it's own unique code starting from static shared **GPAK** prefix following with unique **Album Code**.
+We also assume that each album contains less than 100 photograph so the photograph code is always a zero padded two digit number.
+We use a dash[**-**] character to seperate  the **Prefix**, **Album code** and sequential photograph code as **GPAK**-**AAAA**-**nnnn**.
+This rule has an exception that we will refer to it later.
+By this naming convention each photograp has a unique code that enables us to logically grouped  the photogethes together as an album, thanks to tagging system in **Internet Archive** by using the **Genre** metadata key which is a Taxonomy/Clickable field.
 - Album **GPAK-0100** 
 - Album **GPAK-0108** 
 - Album **GPAK-0114**
