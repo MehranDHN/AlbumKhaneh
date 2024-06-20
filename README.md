@@ -10,6 +10,7 @@ This project aims to integrate approximately 3000 photographs hosted in a IIIF-c
 
 - [Project Overview](#overview)
 - [Features](#features)
+- [Project Logical Organization](#logicalorganization)
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -27,6 +28,11 @@ This project aims to integrate approximately 3000 photographs hosted in a IIIF-c
 - Graph Database: A graph database is used to store and query the RDF data, enabling complex queries and data relationships.
 - Semantic Search: Advanced search capabilities based on RDF and graph data.
 - Interoperability: Supports integration with other IIIF and RDF-based systems.
+
+##logicalorganization
+
+The project has a one to one map between each folder/album and a logical container for each album.
+MORE About each Image URL and its xoresponding IIIF Manifest HERE
 
 ## Architecture
 
