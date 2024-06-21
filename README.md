@@ -36,7 +36,7 @@ The project has a one-to-one map between each folder/album and a logical contain
 Based on the original naming convention we assume that each album should have a four-digit numeric code from 0100 to 1429 but not sequentially because there are many gaps between them and we don't know why.
 In this project, every Photograph has it's own unique code starting from a static shared **GPAK** prefix followed with a unique **Album Code**.
 We also assume that each album contains less than 100 photographs so the photograph code is always a zero-padded two-digit number.
-We use a dash[**-**] character to separate  the **Prefix**, **Album code**, and sequential photograph code as **GPAK**-**AAAA**-**nnnn**.
+We use a dash[**-**] character to separate  the **Prefix**, **Album code**, and sequential photograph code as **GPAK**-**AAAA**-**nn**.
 This rule has an exception that we will refer to it later.
 By this naming convention, each photograph has a unique code that enables us to logically group  the photographs together as an album, thanks to the tagging system in **Internet Archive** by using the **Genre** metadata key which is a Taxonomy/Clickable field.
 - Album **GPAK-0100** 
