@@ -11,6 +11,7 @@ This project aims to integrate approximately 3000 photographs hosted in an **III
 - [Project Overview](#overview)
 - [Features](#features)
 - [Project Logical Organization](#logicalorganization)
+- [Machine Readable Data](#machinereadabledata)- 
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -44,6 +45,17 @@ By this naming convention, each photograph has a unique code that enables us to 
 - - <a href="https://archive.org/search?query=genre%3A%22GPAK-0108%22&sort=title" target="_blank"> GPAK-0108 album sorted by title.</a>- 
 - Album **GPAK-0114**
 - - <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title" target="_blank"> GPAK-0114 album sorted by title.</a>
+
+## Machine Readable Data
+
+When we upload an image to Internet Archive, its corresponding IIIF Metadata is generated as well which is machine-readable data suitable for computers to read/parse and whatever they want to do with that data.
+The URL for accessing The IIIF manifest of each photograph is generated based on the following pattern:
+ *https://iiif.archive.org/iiif/3*/**Photograph_Code**/*manifest.json*<br/>
+ So the IIIF metadata of the 5th photograph in second album with the GPAK-0108-05 can be assessed via <a href="https://iiif.archive.org/iiif/3/GPAK-0108-05/manifest.json" target="_blank"> https://iiif.archive.org/iiif/3/GPAK-0108-05/manifest.json</a><br/>
+ 
+However, the Internet Archive has a predefined endpoint for getting the full metadata of any item that can be reached from :
+*https://archive.org/metadata*/**Photograph_Code**/
+
 
 
 ## Architecture
