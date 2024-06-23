@@ -44,8 +44,8 @@ By this naming convention, each photograph has a unique code that enables us to 
 - Album **GPAK-0108**
 - - <a href="https://archive.org/search?query=genre%3A%22GPAK-0108%22&sort=title" target="_blank"> GPAK-0108 album sorted by title.</a>- 
 - Album **GPAK-0114**
-- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title" target="_blank"> GPAK-0114 album sorted by title.</a
-                                                                                                                    - Album **GPAK-0117**
+- - <a href="https://archive.org/search?query=genre%3A%22GPAK-0114%22&sort=title" target="_blank"> GPAK-0114 album sorted by title.</a>
+- Album **GPAK-0117**
 - - <a href="https://archive.org/search?query=genre%3A%22GPAK-0117%22&sort=title" target="_blank"> GPAK-0117 album sorted by title.</a>               
 
 ## Machine Readable Data
