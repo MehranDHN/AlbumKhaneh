@@ -57,7 +57,9 @@ The URL for accessing The IIIF manifest of each photograph is generated based on
  So the IIIF metadata of the 5th photograph in second album with the GPAK-0108-05 can be assessed via  https://iiif.archive.org/iiif/3/GPAK-0108-05/manifest.json<br/>
  
 However, the Internet Archive has a predefined endpoint for getting the full metadata of any item that can be reached from :<br>
-https://archive.org/metadata/Photograph_Code/
+archive.org/metadata/Photograph_Code.<br>
+
+For example [this end point]([https://pages.github.com/](https://archive.org/metadata/GPAK-0117-17)) is all we need to get the full metadata information related to 17th photograph in the GPAK-0117 album : 
 
 ## Targets
 
