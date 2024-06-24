@@ -66,8 +66,28 @@ This project aims to enhance Wikidata info by using tags and metadata collected 
 The first logical group is political figures and celebrities, and the second group includes cities, buildings, and historical places.<br>
 Before and after any actions, statistics related to the current situation and the details about any progress will be prepared and presented, however real-time monitoring of the quality of data will be available through **SPARQL**.
 
-Below is an image of a Wikidata entry for a person categorized as a politician.
+Below is an image of a Wikidata entry for [(https://wikidata.metaphacts.com/resource/wd:Q5708260)]
+Aqa Ebrahim Amin-ol-Soltan was a famous politician of Iran in the Qajar era.<be>
+
 <img src="https://github.com/MehranDHN/AlbumKhaneh/blob/main/GQ04xEvWIAA8ZRe.jpg" alt="WikiData: A Human Data Model">
+
+If we want to get a list of Politicians who lived in the 18th and 19th centuries we can submit the following SPARQL query :<br>
+
+```turtle
+SELECT ?item ?itemLabel ?birth
+WHERE
+{
+  ?item wdt:P31 wd:Q5;        # Must be a human
+        wdt:P27 wd:Q794;      # citizenship IRAN
+        wdt:P106 wd:Q82955.   # occupation Politician
+        ?item wdt:P569 ?birth.# transfering birthdate in new variable
+    # Filter the result for those whose birth date was before the start of the 20th century         
+    FILTER(
+       ((year(?birth)< 1900) && (year(?birth)> 1700))
+     )
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fa,en". } # our label priority is persian and then english
+}
+```
 
 ## Architecture
 
