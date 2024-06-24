@@ -11,7 +11,8 @@ This project aims to integrate approximately 3000 photographs hosted in an **III
 - [Project Overview](#overview)
 - [Features](#features)
 - [Project Logical Organization](#logicalorganization)
-- [Machine Readable Data](#machinereadabledata)- 
+- [Machine Readable Data](#machinereadabledata)-
+- [Targets](#targets)
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -58,7 +59,14 @@ The URL for accessing The IIIF manifest of each photograph is generated based on
 However, the Internet Archive has a predefined endpoint for getting the full metadata of any item that can be reached from :<br>
 https://archive.org/metadata/Photograph_Code/
 
+## Targets
 
+This project aims to enhance Wikidata info by using tags and metadata collected from the **AlbumKhaneh** project. This will be achieved by designing and implementing a specialized service that processes inputs from at least two main groups. The inputs are matched with existing Wikidata entries, and those not present will be added as new entries.
+
+The first logical group is political figures and celebrities, and the second group includes cities, buildings, and historical places.<br>
+Before and after any actions, statistics related to the current situation and the details about any progress will be prepared and presented, however real-time monitoring of the quality of data will be available through **SPARQL**.
+
+Below is an image of a Wikidata entry for a person categorized as a politician.
 
 ## Architecture
 
