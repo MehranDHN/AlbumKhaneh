@@ -61,7 +61,7 @@ https://archive.org/metadata/Photograph_Code/
 
 ## Targets
 
-This project aims to enhance Wikidata info by using tags and metadata collected from the **AlbumKhaneh** project. This will be achieved by designing and implementing a specialized service that processes inputs from at least two main groups. The inputs are matched with existing Wikidata entries, and those not present will be added as new entries.
+Besides the main target of the **AlbumKhaneh** project which is integrating all the newly exposed Golestan Palace photographs in **IIIF-compliant collections** and relating them to **RDF-based semantic Web** authorities like WIikiData, this project aims to enhance Wikidata info by using the tags and metadata collected from the **AlbumKhaneh** project and improve the implicit and explicit relations between the entities. This will be achieved by designing and implementing a specialized service that processes inputs from at least two main groups. The inputs are matched with existing Wikidata entries, and those not present will be added as new entries.
 
 The first logical group is political figures and celebrities, and the second group includes cities, buildings, and historical places.<br>
 Before and after any actions, statistics related to the current situation and the details about any progress will be prepared and presented, however real-time monitoring of the quality of data will be available through **SPARQL**.
@@ -71,7 +71,7 @@ Aqa Ebrahim Amin-ol-Soltan was a famous politician of Iran in the Qajar era.<be>
 
 <img src="https://github.com/MehranDHN/AlbumKhaneh/blob/main/GQ04xEvWIAA8ZRe.jpg" alt="WikiData: A Human Data Model">
 
-If we want to get a list of Politicians who lived in the 18th and 19th centuries we can submit the following SPARQL query :<br>
+If we want to get a list of Politicians who lived in the 18th and 19th centuries we can submit the following **SPARQL** query :<br>
 
 ```turtle
 SELECT ?item ?itemLabel ?birth
