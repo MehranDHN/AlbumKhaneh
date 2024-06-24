@@ -35,7 +35,7 @@ This project aims to integrate approximately 3000 photographs hosted in an **III
 
 The project has a one-to-one map between each folder/album and a logical container in the Internet Archive.
 Based on the original naming convention we assume that each album should have a four-digit numeric code from 0100 to 1429 but not sequentially because there are many gaps between them and we don't know why.
-In this project, every Photograph has it's own unique code starting from a static shared **GPAK** prefix followed with a unique **Album Code**.
+In this project, every Photograph has its own unique code starting from a static shared **GPAK** prefix followed by a unique **Album Code**.
 We also assume that each album contains less than 100 photographs so the photograph code is always a zero-padded two-digit number.
 We use a dash[-] character to separate  the **Prefix**, **Album Code**, and sequential *Photograph Code* as **GPAK**-**AAAA**-**nn**.
 This rule has an exception that we will refer to it later.
@@ -54,12 +54,12 @@ By this naming convention, each photograph has a unique code that enables us to 
 When we upload an image to Internet Archive, its corresponding IIIF Metadata is also generated as machine-readable data suitable for computers to read/parse and whatever they want to do with that data.
 The URL for accessing The IIIF manifest of each photograph is generated based on the following pattern:<br>
  https://iiif.archive.org/iiif/3/Photograph_Code/manifest.json<br>
- So the IIIF metadata of the 5th photograph in second album with the GPAK-0108-05 can be assessed via  https://iiif.archive.org/iiif/3/GPAK-0108-05/manifest.json<br/>
+ So the IIIF metadata of the 5th photograph in the second album with the GPAK-0108-05 can be assessed via  https://iiif.archive.org/iiif/3/GPAK-0108-05/manifest.json<br/>
  
-However, the Internet Archive has a predefined endpoint for getting the full metadata of any item that can be reached from :<br>
+However, the Internet Archive has a predefined endpoint for getting the full metadata of any item that can be reached from:<br>
 archive.org/metadata/Photograph_Code.<br>
 
-For example [this end point]([https://pages.github.com/](https://archive.org/metadata/GPAK-0117-17)) is all we need to get the full metadata information related to 17th photograph in the GPAK-0117 album : 
+For example [this end point](https://archive.org/metadata/GPAK-0117-17) is all we need to get the full metadata information related to the 17th photograph in the GPAK-0117 album : 
 
 ## Targets
 
