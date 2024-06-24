@@ -67,6 +67,7 @@ The first logical group is political figures and celebrities, and the second gro
 Before and after any actions, statistics related to the current situation and the details about any progress will be prepared and presented, however real-time monitoring of the quality of data will be available through **SPARQL**.
 
 Below is an image of a Wikidata entry for a person categorized as a politician.
+<img src="https://github.com/MehranDHN/AlbumKhaneh/blob/main/GQ04xEvWIAA8ZRe.jpg" alt="WikiData: A Human Data Model">
 
 ## Architecture
 
