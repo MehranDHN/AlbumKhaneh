@@ -91,6 +91,69 @@ WHERE
 }
 ```
 
+However, despite the vast variety of the topics specially when related to **AlbumKhaneh** project I need an ontology to describe the entities of an album with all possible relations to each photo and other details about describing the photographs based on the captions that we already extract for each picture.
+My simplest Ontology is described below :<br>
+
+```turtle
+@prefix ex: <http://example.org/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Classes
+ex:PhotoAlbum a rdfs:Class .
+ex:Photo a rdfs:Class .
+ex:Photographer a rdfs:Class .
+ex:Location a rdfs:Class .
+ex:Person a rdfs:Class .
+ex:HistoricalBuilding a rdfs:Class .
+ex:City a rdfs:Class .
+
+# Properties with Domain and Range
+ex:containsPhoto a rdf:Property ;
+    rdfs:domain ex:PhotoAlbum ;
+    rdfs:range ex:Photo .
+
+ex:takenBy a rdf:Property ;
+    rdfs:domain ex:Photo ;
+    rdfs:range ex:Photographer .
+
+ex:dateTaken a rdf:Property ;
+    rdfs:domain ex:Photo ;
+    rdfs:range xsd:date .
+
+ex:location a rdf:Property ;
+    rdfs:domain ex:Photo ;
+    rdfs:range ex:Location .
+
+ex:appearsIn a rdf:Property ;
+    rdfs:domain ex:Person ;
+    rdfs:range ex:Photo .
+
+ex:lat a rdf:Property ;
+    rdfs:domain ex:Location ;
+    rdfs:range xsd:float .
+
+ex:long a rdf:Property ;
+    rdfs:domain ex:Location ;
+    rdfs:range xsd:float .
+
+ex:shows a rdf:Property ;
+    rdfs:domain ex:Photo ;
+    rdfs:range ex:HistoricalBuilding .
+
+ex:locatedIn a rdf:Property ;
+    rdfs:domain ex:HistoricalBuilding ;
+    rdfs:range ex:City .
+```
+
+
+
+This model can be expanded with hundreds of supplementary leaves, without any limitations for the graph data. All related information is seamlessly connected to the root album, with each branch representing an RDF statement (triple) that can be normalized from nearly any data source, including relational databases.
+
+In the realm of Digital Heritage Collections, our project focuses on two main goals:
+1. Enhancing audience engagement and ease of access to additional information.
+2. Ensuring interoperability with other information sources, adhering to current knowledge standards.
+
+This effort represents a significant step in making historical collections more accessible and interconnected.
 ## Architecture
 
 The project architecture consists of the following components:
