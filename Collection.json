@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://yourdomain.com/collections/main-collection.json",
+  "type": "Collection",
+  "label": {
+    "en": ["MDHN Cataloge Of Resources"]
+  },
+  "summary": {
+    "en": ["A top-level collection organizing various IIIF resources."]
+  },
+  "homepage": [
+    {
+      "id": "https://yourdomain.com/",
+      "type": "Text",
+      "label": {
+        "en": ["Project Homepage"]
+      },
+      "format": "text/html"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://yourdomain.com/collections/sub-collection-1.json",
+      "type": "Collection",
+      "label": {
+        "en": ["Persia and the persian question"]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": ["Creator"]
+          },
+          "value": {
+            "en": ["Mehrandhn@gmail.com"]
+          }
+        },
+        {
+          "label": {
+            "en": ["Date"]
+          },
+          "value": {
+            "en": ["02/24/2025"]
+          }
+        },
+        {
+          "label": {
+            "en": ["Description"]
+          },
+          "value": {
+            "en": ["A collection of Persia and the persian question"]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
+          "type": "Manifest",
+          "label": {
+            "en": ["Persia and the persian question vol.1"]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": "Title"
+              },
+              "value": {
+                "en": "Persia and the persian question vol.1"
+              }
+            },
+            {
+              "label": {
+                "en": ["Author"]
+              },
+              "value": {
+                "en": ["Curzon, George N"]
+              }
+            },
+            {
+              "label": {
+                "en": ["Date"]
+              },
+              "value": {
+                "en": ["circa 1892"]
+              }
+            },
+            {
+              "label": {
+                "en": ["HasImages", "hasEngraves", "hasMaps"]
+              },
+              "value": {
+                "en": ["true", "false", "true"]
+              }
+            }              
+          ]
+        },
+        {
+          "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
+          "type": "Manifest",
+          "label": {
+            "en": ["Persia and the persian question vol.2"]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": "Title"
+              },
+              "value": {
+                "en": "Persia and the persian question vol.2"
+              }
+            },
+            {
+              "label": {
+                "en": ["Author"]
+              },
+              "value": {
+                "en": ["Curzon, George N"]
+              }
+            },
+            {
+              "label": {
+                "en": ["Date"]
+              },
+              "value": {
+                "en": ["circa 1892"]
+              }
+            },
+            {
+              "label": {
+                "en": ["HasImages", "hasEngraves", "hasMaps"]
+              },
+              "value": {
+                "en": ["true", "false", "true"]
+              }
+            }              
+          ]
+        }                     
+      ]            
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/3/throughpersiabyc00arno_0/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": ["Through Persia by caravan"],
+        "fa": ["با کاروان از ميان سرزمين ايران"]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": ["Title"]
+          },
+          "value": {
+            "en": "Through Persia by caravan",
+            "fa" : "با کاروان از ميان سرزمين ايران"
+          }
+        },
+        {
+          "label": {
+            "en": ["Author"]
+          },
+          "value": {
+            "en": ["Arnold, Arthur, Sir"]
+          }
+        },
+        {
+          "label": {
+            "en": "Date"
+          },
+          "value": {
+            "en": "circa 1877"
+          }
+        },
+        {
+          "label": {
+            "en": ["HasImages", "hasEngraves", "hasMaps"]
+          },
+          "value": {
+            "en": ["true", "false", "false"]
+          }
+        }        
+      ]
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/3/throughpersiaons00sykerich/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": ["Through Persia on a side-saddle"]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": ["Title"]
+          },
+          "value": {
+            "en": "Through Persia on a side-saddle",
+            "fa": "سراسر ایران بر پشت زین اسب"
+          }
+        },
+        {
+          "label": {
+            "en": ["Author"]
+          },
+          "value": {
+            "en": ["Sykes, Ella C "]
+          }
+        },
+        {
+          "label": {
+            "en": "Date"
+          },
+          "value": {
+            "en": "circa 1898"
+          }
+        },
+        {
+          "label": {
+            "en": ["HasImages", "hasEngraves", "hasMaps"]
+          },
+          "value": {
+            "en": ["true", "false", "false"]
+          }
+        } 
+      ]
+    }    
+  ]
+}
