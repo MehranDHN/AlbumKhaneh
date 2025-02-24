@@ -13,7 +13,7 @@
       "id": "https://yourdomain.com/",
       "type": "Text",
       "label": {
-        "en": ["Project Homepage"]
+        "en": ["Experimental Project"]
       },
       "format": "text/html"
     }
