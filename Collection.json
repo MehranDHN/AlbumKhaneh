@@ -218,7 +218,89 @@
           "value": {
             "en": ["true", "false", "false"]
           }
-        } 
+        },
+        {
+          "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
+          "type": "Manifest",
+          "label": {
+            "en": ["Persia and the persian question vol.1"]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": "Title"
+              },
+              "value": {
+                "en": "Persia and the persian question vol.1"
+              }
+            },
+            {
+              "label": {
+                "en": ["Author"]
+              },
+              "value": {
+                "en": ["Curzon, George N"]
+              }
+            },
+            {
+              "label": {
+                "en": ["Date"]
+              },
+              "value": {
+                "en": ["circa 1892"]
+              }
+            },
+            {
+              "label": {
+                "en": ["HasImages", "hasEngraves", "hasMaps"]
+              },
+              "value": {
+                "en": ["true", "false", "true"]
+              }
+            }              
+          ]
+        },
+        {
+          "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
+          "type": "Manifest",
+          "label": {
+            "en": ["Persia and the persian question vol.2"]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": "Title"
+              },
+              "value": {
+                "en": "Persia and the persian question vol.2"
+              }
+            },
+            {
+              "label": {
+                "en": ["Author"]
+              },
+              "value": {
+                "en": ["Curzon, George N"]
+              }
+            },
+            {
+              "label": {
+                "en": ["Date"]
+              },
+              "value": {
+                "en": ["circa 1892"]
+              }
+            },
+            {
+              "label": {
+                "en": ["HasImages", "hasEngraves", "hasMaps"]
+              },
+              "value": {
+                "en": ["true", "false", "true"]
+              }
+            }              
+          ]
+        }            
       ]
     }    
   ]
