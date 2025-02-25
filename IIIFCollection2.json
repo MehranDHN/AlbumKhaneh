@@ -2,7 +2,8 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://example.org/iiif/collection/root",
     "@type": "sc:Collection",
-    "label": "Root Collection",
+    "label": "Root Collection IIIF 2.0",
+    "logo": "https://pbs.twimg.com/profile_images/1618734410865459200/NyWpyMqQ_400x400.jpg",
     "metadata": [
         {
             "label": "Description",
@@ -20,7 +21,6 @@
             "profile": "https://example.org/schema"
         }
     ],
-    "manifests": [],
     "collections": [
         {
             "@id": "https://example.org/iiif/collection/nested1",
@@ -162,8 +162,7 @@
                         }
                     ]
                 }
-            ],
-            "collections": []
+            ]
         },
         {
             "@id": "https://example.org/iiif/collection/nested2",
