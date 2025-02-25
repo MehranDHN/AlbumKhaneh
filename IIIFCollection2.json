@@ -50,105 +50,123 @@
             "within": "",
             "manifests": [
                 {
-                    "@id": "https://iiif.wellcomecollection.org/presentation/v2/b19974760_1_0004",
-                    "@type": "sc:Manifest",
-                    "label": "15. September 1859",
+                    "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
+                    "type": "Manifest",
+                    "label": {
+                      "en": [
+                        "Persia and the persian question vol.1"
+                      ]
+                    },
                     "metadata": [
-                        {
-                            "label": "Volume",
-                            "value": "1"
+                      {
+                        "label": {
+                          "en": "Title"
                         },
-                        {
-                            "label": "Year",
-                            "value": "1859"
-                        },
-                        {
-                            "label": "Month",
-                            "value": "September"
-                        },
-                        {
-                            "label": "DisplayDate",
-                            "value": "15. September 1859"
+                        "value": {
+                          "en": "Persia and the persian question vol.1"
                         }
-                    ],
-                    "navDate": "1859-09-15T12:00:00.0000000Z",
-                    "within": ""
-                },
-                {
-                    "@id": "https://iiif.wellcomecollection.org/presentation/v2/b19974760_1_0007",
-                    "@type": "sc:Manifest",
-                    "label": "15. October 1859",
+                      },
+                      {
+                        "label": {
+                          "en": [
+                            "Author"
+                          ]
+                        },
+                        "value": {
+                          "en": [
+                            "Curzon, George N"
+                          ]
+                        }
+                      },
+                      {
+                        "label": {
+                          "en": [
+                            "Date"
+                          ]
+                        },
+                        "value": {
+                          "en": [
+                            "circa 1892"
+                          ]
+                        }
+                      },
+                      {
+                        "label": {
+                          "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                          ]
+                        },
+                        "value": {
+                          "en": [
+                            "true",
+                            "false",
+                            "true"
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
+                    "type": "Manifest",
+                    "label": {
+                      "en": [
+                        "Persia and the persian question vol.2"
+                      ]
+                    },
                     "metadata": [
-                        {
-                            "label": "Volume",
-                            "value": "1"
+                      {
+                        "label": {
+                          "en": "Title"
                         },
-                        {
-                            "label": "Year",
-                            "value": "1859"
-                        },
-                        {
-                            "label": "Month",
-                            "value": "October"
-                        },
-                        {
-                            "label": "DisplayDate",
-                            "value": "15. October 1859"
+                        "value": {
+                          "en": "Persia and the persian question vol.2"
                         }
-                    ],
-                    "navDate": "1859-10-15T12:00:00.0000000Z",
-                    "within": ""
-                },
-                {
-                    "@id": "https://iiif.wellcomecollection.org/presentation/v2/b19974760_1_0011",
-                    "@type": "sc:Manifest",
-                    "label": "15. November 1859",
-                    "metadata": [
-                        {
-                            "label": "Volume",
-                            "value": "1"
+                      },
+                      {
+                        "label": {
+                          "en": [
+                            "Author"
+                          ]
                         },
-                        {
-                            "label": "Year",
-                            "value": "1859"
-                        },
-                        {
-                            "label": "Month",
-                            "value": "November"
-                        },
-                        {
-                            "label": "DisplayDate",
-                            "value": "15. November 1859"
+                        "value": {
+                          "en": [
+                            "Curzon, George N"
+                          ]
                         }
-                    ],
-                    "navDate": "1859-11-15T12:00:00.0000000Z",
-                    "within": ""
-                },
-                {
-                    "@id": "https://iiif.wellcomecollection.org/presentation/v2/b19974760_1_0014",
-                    "@type": "sc:Manifest",
-                    "label": "15. December 1859",
-                    "metadata": [
-                        {
-                            "label": "Volume",
-                            "value": "1"
+                      },
+                      {
+                        "label": {
+                          "en": [
+                            "Date"
+                          ]
                         },
-                        {
-                            "label": "Year",
-                            "value": "1859"
-                        },
-                        {
-                            "label": "Month",
-                            "value": "December"
-                        },
-                        {
-                            "label": "DisplayDate",
-                            "value": "15. December 1859"
+                        "value": {
+                          "en": [
+                            "circa 1892"
+                          ]
                         }
-                    ],
-                    "navDate": "1859-12-15T12:00:00.0000000Z",
-                    "within": ""
-                }
+                      },
+                      {
+                        "label": {
+                          "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                          ]
+                        },
+                        "value": {
+                          "en": [
+                            "true",
+                            "false",
+                            "true"
+                          ]
+                        }
+                      }
+                    ]
+                  }
             ]
         },
         {
