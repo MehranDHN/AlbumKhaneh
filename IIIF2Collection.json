@@ -1,66 +1,173 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://example.org/iiif/collection/publisher",
+    "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18031511",
     "@type": "sc:Collection",
-    "label": {
-        "en": "Online Resources from Internet Archive",
-        "fa": "منابع آنلاین از (آرشیو اینترنتی)"
-    },
-    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
-    "logo": "https://pbs.twimg.com/profile_images/1618734410865459200/NyWpyMqQ_400x400.jpg",
+    "label": "MDHN Experimental Collection",
     "metadata": [
         {
-            "label": {
-                "en": "Publisher",
-                "fa": "ناشر"
-            },
-            "value": {
-                "en": "[Publisher Name]",
-                "fa": "[نام ناشر]"
-            }
+            "label": "Publication/creation",
+            "value": "London : Academic Press, 1968-"
         },
         {
-            "label": {
-                "en": "Source",
-                "fa": "منبع"
-            },
-            "value": {
-                "en": "Internet Archive",
-                "fa": "آرشیو اینترنتی"
-            }
+            "label": "Physical description",
+            "value": "volumes : illustrations ; 26 cm"
+        },
+        {
+            "label": "Contributors",
+            "value": "Bittar, E. Edward.; Bittar, Neville."
+        },
+        {
+            "label": "Notes",
+            "value": "Copy 1 Vol. 3 1969 Note: 1971 reprint.  22400036674; Copy 1 Vol. 4 1969 Note: 1971 reprint. 22400036656; Copy 1 Vol. 5 1969 Note: 1970 reprint. 22400036834"
+        },
+        {
+            "label": "Subjects",
+            "value": "Physiology, Pathological; Cell Biology; Physiology; Biochemistry; Medicine"
         }
     ],
-    "viewingHint": "top",
-
-    "collections": [
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "logo": "https://pbs.twimg.com/profile_images/1618734410865459200/NyWpyMqQ_400x400.jpg",
+    "related": {
+        "@id": "https://wellcomecollection.org/works/ysmqsfhg",
+        "format": "text/html",
+        "label": "The biological basis of medicine / edited by E. Edward Bittar ; assisted by Neville Bittar."
+    },
+    "seeAlso": {
+        "@id": "https://api.wellcomecollection.org/catalogue/v2/works/ysmqsfhg",
+        "profile": "https://api.wellcomecollection.org/catalogue/v2/context.json",
+        "format": "application/json",
+        "label": "Wellcome Collection Catalogue API"
+    },
+    "viewingHint": "multi-part",
+    "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/contributors/rz39rquh",
+    "manifests": [
         {
-            "@id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
-            "@type": "sc:Collection",
+            "id": "https://iiif.archive.org/iiif/3/throughpersiabyc00arno_0/manifest.json",
+            "type": "Manifest",
             "label": {
-                "en": "Multi-Volume Work 1",
-                "fa": "کتاب چند جلدی ۱"
+                "en": [
+                    "Through Persia by caravan"
+                ],
+                "fa": [
+                    "با کاروان از ميان سرزمين ايران"
+                ]
             },
             "metadata": [
                 {
                     "label": {
-                        "en": "Title",
-                        "fa": "عنوان"
+                        "en": [
+                            "Title"
+                        ]
                     },
                     "value": {
-                        "en": "Persia and the persian question",
-                        "fa": "ايران و سوال ايرانی"
+                        "en": "Through Persia by caravan",
+                        "fa": "با کاروان از ميان سرزمين ايران"
                     }
                 },
                 {
                     "label": {
-                        "en": "Internet Archive Page",
-                        "fa": "صفحه در آرشیو اینترنتی"
+                        "en": [
+                            "Author"
+                        ]
                     },
-                    "value": "https://archive.org/details/multivolume1_id"
+                    "value": {
+                        "en": [
+                            "Arnold, Arthur, Sir"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Date"
+                    },
+                    "value": {
+                        "en": "circa 1877"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Genre"
+                    },
+                    "value": {
+                        "en": [
+                            "300266481"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "false"
+                        ]
+                    }
                 }
-            ],
-            "viewingHint": "multi-part",
-            "manifests": [
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/throughpersiaons00sykerich/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Through Persia on a side-saddle"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Title"
+                        ]
+                    },
+                    "value": {
+                        "en": "Through Persia on a side-saddle",
+                        "fa": "سراسر ایران بر پشت زین اسب"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Sykes, Ella C "
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Date"
+                    },
+                    "value": {
+                        "en": "circa 1898"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "false"
+                        ]
+                    }
+                },
                 {
                     "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
                     "type": "Manifest",
@@ -178,6 +285,301 @@
                             }
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia and the persian question vol.1"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia and the persian question vol.1"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Curzon, George N"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1892"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia and the persian question vol.2"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia and the persian question vol.2"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Curzon, George N"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1892"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/persiaitspeople00syke/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia and its people"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia and its people"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Sykes, Ella Constance"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1910"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/persiaawakeninge00cresrich/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia, the awakening East"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia, the awakening East"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Cresson, W. Penn"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1908"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/peepsintopersia00hermrich/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Peeps into Persia"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Peeps into Persia"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Hermalle, Dorothy, Baroness d"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1913"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "true"
+                        ]
+                    }
                 }
             ]
         }
