@@ -6,25 +6,32 @@
     "metadata": [
         {
             "label": "Publication/creation",
-            "value": "London : Academic Press, 1968-"
+            "value": "Tehran: MehranDHN"
         },
         {
             "label": "Physical description",
-            "value": "volumes : illustrations ; 26 cm"
+            "value": "Machine reasable catalogue compatible with IIIF 2.0 Presentation API"
         },
         {
             "label": "Contributors",
-            "value": "Bittar, E. Edward.; Bittar, Neville."
+            "value": "MehranDHN"
         },
         {
             "label": "Notes",
-            "value": "Copy 1 Vol. 3 1969 Note: 1971 reprint.  22400036674; Copy 1 Vol. 4 1969 Note: 1971 reprint. 22400036656; Copy 1 Vol. 5 1969 Note: 1970 reprint. 22400036834"
+            "value": "All items have coresponding IIIF 3.0 manifests with internal references to more details. The field seeAlso should be parsed carefully."
         },
         {
             "label": "Subjects",
-            "value": "Physiology, Pathological; Cell Biology; Physiology; Biochemistry; Medicine"
+            "value": "Travel, Life Styles, Politic, Culture, Art, Architecture, History, Geography, Archeology."
         }
     ],
+    "summary": {
+        "en": [
+          "An experimental catalogue for digital resources in Internet Archive related to the voyages and sometimes historical events about the Persia (IRAN). ",
+          "This catalogue is fully machine readable/consumable and intended to adhere with IIIF 2.0 Presentation.",
+          "Created by : MehranDHN"
+        ]
+      },    
     "license": "http://creativecommons.org/licenses/by-nc/4.0/",
     "logo": "https://pbs.twimg.com/profile_images/1618734410865459200/NyWpyMqQ_400x400.jpg",
     "thumbnail": [
@@ -75,127 +82,7 @@
             "label": "Persia and the persian question",
             "viewingHint": "multi-part",
             "navDate": "1859-09-15T12:00:00.0000000Z",
-            "within": "",
-            "manifests": [
-                {
-                    "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
-                    "type": "Manifest",
-                    "label": {
-                        "en": [
-                            "Persia and the persian question vol.1"
-                        ]
-                    },
-                    "metadata": [
-                        {
-                            "label": {
-                                "en": "Title"
-                            },
-                            "value": {
-                                "en": "Persia and the persian question vol.1"
-                            }
-                        },
-                        {
-                            "label": {
-                                "en": [
-                                    "Author"
-                                ]
-                            },
-                            "value": {
-                                "en": [
-                                    "Curzon, George N"
-                                ]
-                            }
-                        },
-                        {
-                            "label": {
-                                "en": [
-                                    "Date"
-                                ]
-                            },
-                            "value": {
-                                "en": [
-                                    "circa 1892"
-                                ]
-                            }
-                        },
-                        {
-                            "label": {
-                                "en": [
-                                    "HasImages",
-                                    "hasEngraves",
-                                    "hasMaps"
-                                ]
-                            },
-                            "value": {
-                                "en": [
-                                    "true",
-                                    "false",
-                                    "true"
-                                ]
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
-                    "type": "Manifest",
-                    "label": {
-                        "en": [
-                            "Persia and the persian question vol.2"
-                        ]
-                    },
-                    "metadata": [
-                        {
-                            "label": {
-                                "en": "Title"
-                            },
-                            "value": {
-                                "en": "Persia and the persian question vol.2"
-                            }
-                        },
-                        {
-                            "label": {
-                                "en": [
-                                    "Author"
-                                ]
-                            },
-                            "value": {
-                                "en": [
-                                    "Curzon, George N"
-                                ]
-                            }
-                        },
-                        {
-                            "label": {
-                                "en": [
-                                    "Date"
-                                ]
-                            },
-                            "value": {
-                                "en": [
-                                    "circa 1892"
-                                ]
-                            }
-                        },
-                        {
-                            "label": {
-                                "en": [
-                                    "HasImages",
-                                    "hasEngraves",
-                                    "hasMaps"
-                                ]
-                            },
-                            "value": {
-                                "en": [
-                                    "true",
-                                    "false",
-                                    "true"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ]
+            "within": ""
         }
     ],
     "manifests": [
