@@ -34,7 +34,7 @@
 
     "collections": [
         {
-            "@id": "https://example.org/iiif/collection/multivolume1",
+            "@id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11918/manifest.json",
             "@type": "sc:Collection",
             "label": {
                 "en": "Multi-Volume Work 1",
