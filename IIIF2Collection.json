@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18031511",
+    "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/IIIF2Collection.json",
     "@type": "sc:Collection",
     "label": "MDHN Experimental Collection",
     "metadata": [
@@ -27,19 +27,8 @@
     ],
     "license": "http://creativecommons.org/licenses/by-nc/4.0/",
     "logo": "https://pbs.twimg.com/profile_images/1618734410865459200/NyWpyMqQ_400x400.jpg",
-    "related": {
-        "@id": "https://wellcomecollection.org/works/ysmqsfhg",
-        "format": "text/html",
-        "label": "The biological basis of medicine / edited by E. Edward Bittar ; assisted by Neville Bittar."
-    },
-    "seeAlso": {
-        "@id": "https://api.wellcomecollection.org/catalogue/v2/works/ysmqsfhg",
-        "profile": "https://api.wellcomecollection.org/catalogue/v2/context.json",
-        "format": "application/json",
-        "label": "Wellcome Collection Catalogue API"
-    },
     "viewingHint": "multi-part",
-    "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/contributors/rz39rquh",
+    "within": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/IIIF2Collection.json",
     "collections": [
         {
             "@id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
