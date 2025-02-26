@@ -42,7 +42,7 @@
     "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/contributors/rz39rquh",
     "collections": [
         {
-            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b19974760_1",
+            "@id": "https://iiif.archive.org/iiif/3/in.gov.ignca.11917/manifest.json",
             "@type": "sc:Collection",
             "label": "Persia and the persian question",
             "viewingHint": "multi-part",
