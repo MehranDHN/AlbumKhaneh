@@ -73,16 +73,6 @@
     ],
     "viewingHint": "multi-part",
     "within": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/ShardinCollection.json",
-    "collections": [
-        {
-            "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/Shardin3VolCollection.json",
-            "@type": "sc:Collection",
-            "label": "Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l'Orient",
-            "viewingHint": "multi-part",
-            "navDate": "1859-09-15T12:00:00.0000000Z",
-            "within": ""
-        }
-    ],
     "manifests": [
         {
             "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k10503900/manifest.json",
