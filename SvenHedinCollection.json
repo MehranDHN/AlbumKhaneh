@@ -83,6 +83,22 @@
           }
         },
         {
+            "label": {
+                "en": "Hosted By"
+            },
+            "value": {
+                "en": "Internet Archive"
+            }
+        },
+        {
+            "label": {
+                "en": "Unique ID"
+            },
+            "value": {
+                "en": "b29352332_0001"
+            }
+        },        
+        {
           "label": {
             "en": [
               "Date"
@@ -141,6 +157,22 @@
             ]
           }
         },
+        {
+            "label": {
+                "en": "Hosted By"
+            },
+            "value": {
+                "en": "Internet Archive"
+            }
+        },
+        {
+            "label": {
+                "en": "Unique ID"
+            },
+            "value": {
+                "en": "b29352332_00027"
+            }
+        },          
         {
           "label": {
             "en": [
