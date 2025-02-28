@@ -159,6 +159,255 @@
                     }
                 }
             ]
-        }
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531025148/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Map of Persia, Asian Turkey and part of Independent Tartary"
+                ],
+                "fr": [
+                    "Carte de la Perse, de la Turquie d'Asie et d'une partie de la Tartarie Indépendante"
+                ],
+                "fa": [
+                    "نقشه ايران، ترکيه آسيايی و بخشهايی از تاتارستان مستقل"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Map of Persia, Asian Turkey and part of Independent Tartary",
+                        "fr": "Carte de la Perse, de la Turquie d'Asie et d'une partie de la Tartarie Indépendante",
+                        "fa": "نقشه ايران، ترکيه آسيايی و بخشهايی از تاتارستان مستقل"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Chardin, John"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "btv1b531025148"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1810"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8728791k/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "The Coronation of Suleiman, Third King of Persia, and the Most Memorable Events of the First Two Years of His Reign"
+                ],
+                "fr": [
+                    "Le Couronnement de Soleïmaan, troisième roy de Perse, et ce qui s'est passé de plus mémorable dans les deux premières années de son règne "
+                ],
+                "fa": [
+                    "سلطنت سليمان پادشاه صفوی و مهمترين رويدادهای دو سال ابتدای سلطنت او"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "The Coronation of Suleiman, Third King of Persia, and the Most Memorable Events of the First Two Years of His Reign",
+                        "fr": "Le Couronnement de Soleïmaan, troisième roy de Perse, et ce qui s'est passé de plus mémorable dans les deux premières années de son règne",
+                        "fa": "سلطنت سليمان پادشاه صفوی و مهمترين رويدادهای دو سال ابتدای سلطنت او"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Chardin, John"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "bpt6k8728791k"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1671"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85930882/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Sheet of different views of Persia"
+                ],
+                "fr": [
+                    "Feuille de vues différentes de Perse"
+                ],
+                "fa": [
+                    "برگی شامل چند نمای مختلف از ايران"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Feuille de vues différentes de Perse",
+                        "fr": "Feuille de vues différentes de Perse",
+                        "fa": "برگی شامل چند نمای مختلف از ايران"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Chardin, John"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "btv1b85930882"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1686"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        }        
     ]
 }

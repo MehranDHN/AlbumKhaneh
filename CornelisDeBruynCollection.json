@@ -83,5 +83,82 @@
             "navDate": "1859-09-15T12:00:00.0000000Z",
             "within": ""
         }
+    ],
+    "manifests": [
+        {
+            "id": "https://iiif.archive.org/iiif/3/gri_33125008232130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Bruyn, Cornelis de"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "gri_33125008232130"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1718"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "false"
+                        ]
+                    }
+                }
+            ]
+        }
     ]
 }
