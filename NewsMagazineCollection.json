@@ -76,7 +76,7 @@
     "within": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/IIIF2Collection.json",
     "collections": [
         {
-            "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/LeMondeIllustre.json",
+            "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/LEMondeIllustreCollection.json",
             "@type": "sc:Collection",
             "label": "Le Monde Illustre",
             "viewingHint": "multi-part",
