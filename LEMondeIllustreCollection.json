@@ -79,7 +79,7 @@
             "type": "Manifest",
             "label": {
                 "en": [
-                    "12 July 1873"
+                    "12 july 1873"
                 ],
                 "fr" :[
                     "12 juillet 1873"
@@ -91,7 +91,7 @@
                         "en": "Title"
                     },
                     "value": {
-                        "en": "12 July 1873",
+                        "en": "12 july 1873",
                         "fr" : "12 juillet 1873"
                     }
                 },
@@ -121,85 +121,6 @@
                     },
                     "value": {
                         "en": "bpt6k6220651m"
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "circa 1873"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "HasImages",
-                            "hasEngraves",
-                            "hasMaps"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "false",
-                            "true",
-                            "false"
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62231594/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "en": [
-                    "13 febuary 1892"
-                ],
-                "fr" :[
-                    "13 février 1892"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": "Title"
-                    },
-                    "value": {
-                        "en": "13 febuary 1892",
-                        "fr" : "13 février 1892"
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Author"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Le Monde Illustre"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": "Hosted By"
-                    },
-                    "value": {
-                        "en": "Gallica"
-                    }
-                },
-                {
-                    "label": {
-                        "en": "Unique ID"
-                    },
-                    "value": {
-                        "en": "bpt6k62231594"
                     }
                 },
                 {
@@ -310,6 +231,86 @@
                     }
                 }
             ]
-        }         
+        } ,        
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62231594/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "13 febuary 1892"
+                ],
+                "fr" :[
+                    "13 février 1892"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "13 febuary 1892",
+                        "fr" : "13 février 1892"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Le Monde Illustre"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "bpt6k62231594"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1873"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "false"
+                        ]
+                    }
+                }
+            ]
+        }
+       
     ]
 }
