@@ -86,6 +86,81 @@
     ],
     "manifests": [
         {
+            "id": "https://iiif.archive.org/iiif/3/travelsofsirjohn00char/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "The travels of Sir John Chardin into Persia and the East Indies"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "The travels of Sir John Chardin into Persia and the East Indies"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Chardin, John, Sir"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "travelsofsirjohn00char"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1686"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "id": "https://iiif.archive.org/iiif/3/b33284088_0004/manifest.json",
             "type": "Manifest",
             "label": {
@@ -408,6 +483,6 @@
                     }
                 }
             ]
-        }        
+        }
     ]
 }
