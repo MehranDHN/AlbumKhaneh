@@ -90,8 +90,11 @@
             "type": "Manifest",
             "label": {
                 "en": [
+                    "Travels of Corneille Le Brun through Muscovy, Persia, and the East Indies"
+                ],
+                "fr": [
                     "Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales"
-                ]
+                ]                
             },
             "metadata": [
                 {
@@ -99,7 +102,8 @@
                         "en": "Title"
                     },
                     "value": {
-                        "en": "Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales"
+                        "en": "Travels of Corneille Le Brun through Muscovy, Persia, and the East Indies",
+                        "fr" :"Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales"
                     }
                 },
                 {
@@ -110,7 +114,7 @@
                     },
                     "value": {
                         "en": [
-                            "Bruyn, Cornelis de"
+                            "Cornelis de Bruyn", "Q46998502"
                         ]
                     }
                 },
@@ -159,6 +163,235 @@
                     }
                 }
             ]
-        }
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1519328j/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales. Tome 1"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales. Tome 1"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Cornelis de Bruyn", "Q46998502"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "bpt6k1519328j"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1718"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "false"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1519328j/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Journey to the Levant, that is to say to the principal places of Asia Minor, to the islands of Chios, Rhodes, Cyprus"
+                ],
+                "fr" :["Voyage au Levant, c'est-à-dire dans les principaux endroits de l'Asie Mineure, dans les isles de Chio, Rhodes, Chypre"]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Journey to the Levant, that is to say to the principal places of Asia Minor, to the islands of Chios, Rhodes, Cyprus",
+                        "fr" : "Voyage au Levant, c'est-à-dire dans les principaux endroits de l'Asie Mineure, dans les isles de Chio, Rhodes, Chypre"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Cornelis de Bruyn", "Q46998502"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "bpt6k1519328j"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1728"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1040601r/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Journey to the Levant, that is to say to the principal places of Asia Minor, to the islands of Chios, Rhodes, Cyprus"
+                ],
+                "fr" :["Voyage au Levant, c'est-à-dire, dans les principaux endroits de l'Asie Mineure, dans les isles de Chio, Rhodes, & Chypre"]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Journey to the Levant, that is to say to the principal places of Asia Minor, to the islands of Chios, Rhodes, Cyprus",
+                        "fr" : "Voyage au Levant, c'est-à-dire dans les principaux endroits de l'Asie Mineure, dans les isles de Chio, Rhodes, Chypre"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Cornelis de Bruyn", "Q46998502"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "bpt6k1040601r"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1728"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        }                
     ]
 }
