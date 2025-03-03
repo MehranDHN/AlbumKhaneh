@@ -1303,9 +1303,177 @@
                     },
                     "value": {
                         "en": [
-                            "false",
                             "true",
-                            "true"
+                            "false",
+                            "false"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/denkmlerpersis00sarr/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Monuments of Persian architecture II"
+                ],
+                "de": [
+                    "Denkmäler persischer Baukunst II"
+                ],
+                "fa": [
+                    "آثار معماری ايرانی - رنگی"
+                ],
+                "fr": [
+                    "Monuments de l'architecture persane II"
+                ]                
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Monuments of Persian architecture II",
+                        "fr": "monuments de l'architecture persane II",
+                        "fa": "آثار معماری ايرانی - رنگی",
+                        "de" : "Denkmäler persischer Baukunst II"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Friedrich Sarre",
+                            "Q84873"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "denkmlerpersis00sarr"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1901"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "false",
+                            "false"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/nadirshah00durauoft/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Nadir Shah"
+                ],
+                "fa": [
+                    "نادر شاه"
+                ]             
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Nadir Shah",
+                        "fa": "نادر شاه"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Durand, Henry Mortimer",
+                            "Q108062695"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "nadirshah00durauoft"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1908"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "true",
+                            "true",
+                            "false"
                         ]
                     }
                 }
