@@ -1478,6 +1478,182 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/b30500606_0001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Exotic political-physical-medical attractions, 5 volumes, containing various reports, observations and descriptions of things in Persia and further Asia, with much attention to detail."
+                ],
+                "fa": [
+                    "جاذبه های عجیب و غریب سیاسی-فیزیکی-پزشکی، 5 جلدی، حاوی گزارش های مختلف، مشاهدات و توصیفات موجود در ایران و آسیای بیشتر، با توجه به جزئیات."
+                ]             
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Exotic political-physical-medical attractions, 5 volumes, containing various reports, observations and descriptions of things in Persia and further Asia, with much attention to detail.",
+                        "fa": "جاذبه های عجیب و غریب سیاسی-فیزیکی-پزشکی، 5 جلدی، حاوی گزارش های مختلف، مشاهدات و توصیفات موجود در ایران و آسیای بیشتر، با توجه به جزئیات."
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Engelbert Kaempfer",
+                            "Q58042"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "Latin"
+                    }
+                },                
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "b30500606_0001"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1712"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/amoenitatumexoti00kaem/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Exotic political-physical-medical attractions, 5 volumes, containing various reports, observations and descriptions of things in Persia and further Asia, with much attention to detail."
+                ],
+                "fa": [
+                    "جاذبه های عجیب و غریب سیاسی-فیزیکی-پزشکی، 5 جلدی، حاوی گزارش های مختلف، مشاهدات و توصیفات موجود در ایران و آسیای بیشتر، با توجه به جزئیات."
+                ]             
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Exotic political-physical-medical attractions, 5 volumes, containing various reports, observations and descriptions of things in Persia and further Asia, with much attention to detail.",
+                        "fa": "جاذبه های عجیب و غریب سیاسی-فیزیکی-پزشکی، 5 جلدی، حاوی گزارش های مختلف، مشاهدات و توصیفات موجود در ایران و آسیای بیشتر، با توجه به جزئیات."
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Engelbert Kaempfer",
+                            "Q58042"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "Latin"
+                    }
+                },                
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "amoenitatumexoti00kaem"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1712"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
