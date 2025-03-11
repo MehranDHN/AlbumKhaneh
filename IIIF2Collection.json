@@ -1678,6 +1678,98 @@
                     }
                 }
             ]
-        }
+        },
+        {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1511616w/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Journey to Persia, following the Russian embassy"
+                ],
+                "fr": [
+                    "Voyage en Perse, à la suite de l'ambassade russe"
+                ],                
+                "fa": [
+                    "مسافرت به ايران"
+                ]             
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Journey to Persia, following the Russian embassy",
+                        "fr": "Voyage en Perse, à la suite de l'ambassade russe",                        
+                        "fa": "مسافرت به ايران"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Moritz von Kotzebue",
+                            "Q4236582"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },                
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Gallica"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "bpt6k1511616w"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1819"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        }        
     ]
 }
