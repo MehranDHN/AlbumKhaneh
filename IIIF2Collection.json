@@ -125,7 +125,7 @@
             "viewingHint": "multi-part",
             "navDate": "1859-09-15T12:00:00.0000000Z",
             "within": ""
-        }  ,
+        },
         {
             "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/GaspardDrouvilleCollection.json",
             "@type": "sc:Collection",
@@ -133,11 +133,19 @@
             "viewingHint": "multi-part",
             "navDate": "1859-09-15T12:00:00.0000000Z",
             "within": ""
-        },  
+        },
         {
             "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/SoltykovCollection.json",
             "@type": "sc:Collection",
             "label": "Aleksej Soltykov",
+            "viewingHint": "multi-part",
+            "navDate": "1859-09-15T12:00:00.0000000Z",
+            "within": ""
+        },
+        {
+            "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/RobertKerPorterCollection.json",
+            "@type": "sc:Collection",
+            "label": "Robert Ker Porter",
             "viewingHint": "multi-part",
             "navDate": "1859-09-15T12:00:00.0000000Z",
             "within": ""
@@ -149,7 +157,7 @@
             "viewingHint": "multi-part",
             "navDate": "1859-09-15T12:00:00.0000000Z",
             "within": ""
-        }                               
+        }
     ],
     "manifests": [
         {
@@ -1270,7 +1278,7 @@
                 ],
                 "fr": [
                     "Monuments de l'architecture persane"
-                ]                
+                ]
             },
             "metadata": [
                 {
@@ -1281,7 +1289,7 @@
                         "en": "Monuments of Persian architecture",
                         "fr": "monuments de l'architecture persane",
                         "fa": "آثار معماری ايرانی",
-                        "de" : "Denkmäler persischer Baukunst"
+                        "de": "Denkmäler persischer Baukunst"
                     }
                 },
                 {
@@ -1358,7 +1366,7 @@
                 ],
                 "fr": [
                     "Monuments de l'architecture persane II"
-                ]                
+                ]
             },
             "metadata": [
                 {
@@ -1369,7 +1377,7 @@
                         "en": "Monuments of Persian architecture II",
                         "fr": "monuments de l'architecture persane II",
                         "fa": "آثار معماری ايرانی - رنگی",
-                        "de" : "Denkmäler persischer Baukunst II"
+                        "de": "Denkmäler persischer Baukunst II"
                     }
                 },
                 {
@@ -1440,7 +1448,7 @@
                 ],
                 "fa": [
                     "نادر شاه"
-                ]             
+                ]
             },
             "metadata": [
                 {
@@ -1520,7 +1528,7 @@
                 ],
                 "fa": [
                     "جاذبه های عجیب و غریب سیاسی-فیزیکی-پزشکی، 5 جلدی، حاوی گزارش های مختلف، مشاهدات و توصیفات موجود در ایران و آسیای بیشتر، با توجه به جزئیات."
-                ]             
+                ]
             },
             "metadata": [
                 {
@@ -1552,7 +1560,7 @@
                     "value": {
                         "en": "Latin"
                     }
-                },                
+                },
                 {
                     "label": {
                         "en": "Hosted By"
@@ -1608,7 +1616,7 @@
                 ],
                 "fa": [
                     "جاذبه های عجیب و غریب سیاسی-فیزیکی-پزشکی، 5 جلدی، حاوی گزارش های مختلف، مشاهدات و توصیفات موجود در ایران و آسیای بیشتر، با توجه به جزئیات."
-                ]             
+                ]
             },
             "metadata": [
                 {
@@ -1640,7 +1648,7 @@
                     "value": {
                         "en": "Latin"
                     }
-                },                
+                },
                 {
                     "label": {
                         "en": "Hosted By"
@@ -1696,10 +1704,10 @@
                 ],
                 "fr": [
                     "Voyage en Perse, à la suite de l'ambassade russe"
-                ],                
+                ],
                 "fa": [
                     "مسافرت به ايران"
-                ]             
+                ]
             },
             "metadata": [
                 {
@@ -1708,7 +1716,7 @@
                     },
                     "value": {
                         "en": "Journey to Persia, following the Russian embassy",
-                        "fr": "Voyage en Perse, à la suite de l'ambassade russe",                        
+                        "fr": "Voyage en Perse, à la suite de l'ambassade russe",
                         "fa": "مسافرت به ايران"
                     }
                 },
@@ -1732,7 +1740,7 @@
                     "value": {
                         "en": "French"
                     }
-                },                
+                },
                 {
                     "label": {
                         "en": "Hosted By"
@@ -1778,6 +1786,6 @@
                     }
                 }
             ]
-        }        
+        }
     ]
 }
