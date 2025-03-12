@@ -202,6 +202,82 @@
                     }
                 }
             ]
-        }
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~363937~90131479/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1926"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1926"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~363937~90131479"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1926"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        }        
     ]
 }
