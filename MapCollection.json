@@ -278,6 +278,690 @@
                     }
                 }
             ]
-        }        
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~283463~90055874/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1607"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1607"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~283463~90055874"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1607"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~275777~90048770/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1608"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1608"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~275777~90048770"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1608"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~275883~90048671/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1608"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1595"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~275883~90048671"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1595"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~277461~90050571/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1600"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1600"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~277461~90050571"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1600"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~324413~90093619/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1607"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1607"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~324413~90093619"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1607"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~284826~90057333/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1618"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1618"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~284826~90057333"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1618"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~329260~90128246/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1623"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1623"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~329260~90128246"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1623"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~294756~90065928/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1652"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1652"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~294756~90065928"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1652"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305798~90076164/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia 1659"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia 1659"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edward Stanford Ltd",
+                            "Q7598824"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "David Rumsey"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "RUMSEY~8~1~305798~90076164"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1659"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        }
     ]
 }
