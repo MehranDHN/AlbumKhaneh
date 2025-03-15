@@ -125,6 +125,81 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/SingleVideo.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1963 #21 Iran Single Video"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "1963 #21 Iran Single Video"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Watson Kintner"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "upenn-f16-0247_1963_21_Iran"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1963"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "false"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
