@@ -962,6 +962,82 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "hhttps://iiif.nli.org.il/IIIFv21/DOCID/NNL_ALEPH21218928750005171/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Persia Neele & Son 1823"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Persia Neele & Son 1823"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "National Library of Israel",
+                            "Q188915"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "NLI"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "NNL_ALEPH21218928750005171"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1659"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

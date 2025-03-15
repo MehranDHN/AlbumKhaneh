@@ -1794,6 +1794,98 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/3/isbn_9781362110088/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "From the Black Sea Through Persia and India"
+                ],
+                "fr": [
+                    "De la mer Noire à travers la Perse et l'Inde"
+                ],
+                "fa": [
+                    "از دریای سیاه از طریق ایران و هند"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "From the Black Sea Through Persia and India",
+                        "fr": "De la mer Noire à travers la Perse et l'Inde",
+                        "fa": "از دریای سیاه از طریق ایران و هند"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edwin Lord Weeks",
+                            "Q3735411"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "English"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "Internet Archive"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "isbn_9781362110088"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1895"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "true",
+                            "true"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
