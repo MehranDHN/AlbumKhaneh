@@ -23,7 +23,11 @@
         {
             "label": "Subjects",
             "value": "Travel, Life Styles, Politic, Culture, Art, Architecture, History, Geography, Archeology."
-        }
+        },
+        {
+            "label": "GLAM",
+            "value": "Internet Archive, Gallica, QDL, Berlin, David Rumsey Collection, NLI, BULAC, INHA"
+        }            
     ],
     "summary": {
         "en": [
@@ -93,7 +97,7 @@
                     },
                     "value": {
                         "en": "From Khorasan to the land of the Backhtiaris, three months of travel in Persia Vol:1",
-                        "de": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:1"
+                        "fr": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:1"
                     }
                 },
                 {
@@ -181,7 +185,7 @@
                     },
                     "value": {
                         "en": "From Khorasan to the land of the Backhtiaris, three months of travel in Persia Vol:2",
-                        "de": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:2"
+                        "fr": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:2"
                     }
                 },
                 {
@@ -269,7 +273,7 @@
                     },
                     "value": {
                         "en": "From Khorasan to the land of the Backhtiaris, three months of travel in Persia Vol:3",
-                        "de": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:3"
+                        "fr": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:3"
                     }
                 },
                 {
@@ -357,7 +361,7 @@
                     },
                     "value": {
                         "en": "From Khorasan to the land of the Backhtiaris, three months of travel in Persia Vol:4",
-                        "de": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:4"
+                        "fr": "Du Khorassan au pays des Backhtiaris, trois mois de voyage en Perse Vol:4"
                     }
                 },
                 {
