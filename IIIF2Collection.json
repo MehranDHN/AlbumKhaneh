@@ -23,17 +23,22 @@
         {
             "label": "Subjects",
             "value": "Travel, Life Styles, Politic, Culture, Art, Architecture, History, Geography, Archeology."
-        }
+        },
+        {
+            "label": "GLAM",
+            "value": "Internet Archive, Gallica, QDL, Berlin, David Rumsey Collection, NLI, BULAC, INHA"
+        }        
     ],
     "summary": {
         "en": [
-            "An experimental catalogue for digital resources in Internet Archive related to the voyages and sometimes historical events about the Persia (IRAN). ",
+            "An experimental catalogue for digital resources in various GLAMs related to the voyages and sometimes historical events about the Persia(IRAN). ",
             "This catalogue is fully machine readable/consumable and intended to adhere IIIF 2.0 Presentation.",
             "Accessing the full data required to multiple Request. The full data access model will be publishe soon.",
-            "Created by : MehranDHN"
+            "Use it with care, The information in this list is changing almost daily and may be subject to significant changes.",
+            "Created and Maintain by : MehranDHN"
         ]
     },
-    "attribution": "Experimental. By:MehranDHN",
+    "attribution": "Experimental. By:MehranDHN\n Twitter: https://x.com/Mehrandhn",
     "license": "http://creativecommons.org/licenses/by-nc/4.0/",
     "logo": "https://pbs.twimg.com/profile_images/1618734410865459200/NyWpyMqQ_400x400.jpg",
     "thumbnail": [
