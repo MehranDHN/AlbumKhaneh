@@ -1,5 +1,12 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        {
+            "aat": "http://vocab.getty.edu/aat/",
+            "schema": "https://schema.org/",
+            "tgm": "http://id.loc.gov/vovabulary/graphicMaterials/"
+        }
+    ],
     "@id": "https://raw.githubusercontent.com/MehranDHN/AlbumKhaneh/refs/heads/main/DieulafoyCollection.json",
     "@type": "sc:Collection",
     "label": "Dieulafoy Collection",
@@ -115,6 +122,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -198,6 +216,17 @@
                         "en": [
                             "Jane Dieulafoy",
                             "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
                         ]
                     }
                 },
@@ -291,6 +320,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -374,6 +414,17 @@
                         "en": [
                             "Jane Dieulafoy",
                             "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
                         ]
                     }
                 },
@@ -467,6 +518,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -555,6 +617,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -629,7 +702,7 @@
                     "value": {
                         "en": "Immobile Persia: its unknown landscapes, its abandoned cities",
                         "fr": "La Perse immobile : ses paysages inconnus, ses villes délaissées",
-                        "fa": "ایران بی حرکت: مناظر ناشناخته  شهرهای متروکه. همراه مقدمه ای از جين ديولافوا"
+                        "fa": "ایران بی حرکت: مناظر ناشناخته  شهرهای متروکه. همراه مقدمه ای از ژان ديولافوی"
                     }
                 },
                 {
@@ -642,6 +715,17 @@
                         "en": [
                             "Louis-Charles Watelin",
                             "Q23823970"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
                         ]
                     }
                 },
@@ -735,6 +819,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -818,6 +913,17 @@
                         "en": [
                             "Jane Dieulafoy",
                             "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
                         ]
                     }
                 },
@@ -911,6 +1017,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300046300",
+                            "schema:Photograph"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -994,6 +1111,17 @@
                         "en": [
                             "Marcel Dieulafoy",
                             "Q2624559"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300046300",
+                            "schema:Photograph"
                         ]
                     }
                 },
@@ -1087,6 +1215,17 @@
                 },
                 {
                     "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300046300",
+                            "schema:Photograph"
+                        ]
+                    }
+                },
+                {
+                    "label": {
                         "en": "Hosted By"
                     },
                     "value": {
@@ -1151,7 +1290,7 @@
                 ],
                 "fa": [
                     "هنر ایرانی باستان; هخامنشیان، اشکانیان، ساسانیان"
-                ]                
+                ]
             },
             "metadata": [
                 {
@@ -1161,7 +1300,7 @@
                     "value": {
                         "en": "Ancient Persian art; Achaemenids, Parthians, Sassanids",
                         "fr": "L'art antique de la Perse; Achéménides, Parthes, Sassanides",
-                        "fa" : "هنر ایرانی باستان; هخامنشیان، اشکانیان، ساسانیان"
+                        "fa": "هنر ایرانی باستان; هخامنشیان، اشکانیان، ساسانیان"
                     }
                 },
                 {
@@ -1174,6 +1313,17 @@
                         "en": [
                             "Marcel Dieulafoy",
                             "Q2624559"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
                         ]
                     }
                 },
@@ -1243,7 +1393,7 @@
                 ],
                 "fa": [
                     "مسجد حسن"
-                ]                
+                ]
             },
             "metadata": [
                 {
@@ -1253,7 +1403,7 @@
                     "value": {
                         "en": "Hassan Mosque",
                         "fr": "La mosquée d'Hassân",
-                        "fa" : "مسجد حسن"
+                        "fa": "مسجد حسن"
                     }
                 },
                 {
@@ -1266,6 +1416,17 @@
                         "en": [
                             "Marcel Dieulafoy",
                             "Q2624559"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300028051",
+                            "schema:Book"
                         ]
                     }
                 },
@@ -1322,6 +1483,798 @@
                     }
                 }
             ]
-        }         
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62750/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Divers 1"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Divers 1"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Divers 1",
+                        "fr": "Album Dieulafoy. Divers 1"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62750"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62737/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Spain and Portugal"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Espagne et Portugal"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Spain and Portugal",
+                        "fr": "Album Dieulafoy. Espagne et Portugal"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62737"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62746/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Perse 1"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Perse 1"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Perse 1",
+                        "fr": "Album Dieulafoy. Perse 1"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62746"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62742/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Perse 2"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Perse 2"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Perse 2",
+                        "fr": "Album Dieulafoy. Perse 2"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62742"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62745/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Perse 3"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Perse 3"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Perse 3",
+                        "fr": "Album Dieulafoy. Perse 3"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62745"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62743/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Perse 4"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Perse 4"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Perse 4",
+                        "fr": "Album Dieulafoy. Perse 4"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62743"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62747/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Perse 5"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Perse 5"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Perse 5",
+                        "fr": "Album Dieulafoy. Perse 5"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62747"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://bibliotheque-numerique.inha.fr/iiif/62754/manifest",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Album Dieulafoy. Perse 6"
+                ],
+                "fr": [
+                    "Album Dieulafoy. Perse 6"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": "Title"
+                    },
+                    "value": {
+                        "en": "Album Dieulafoy. Perse 6",
+                        "fr": "Album Dieulafoy. Perse 6"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Author"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jane Dieulafoy",
+                            "Q460196"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Content Type"
+                    },
+                    "value": {
+                        "en": [
+                            "aat:300027200",
+                            "schema:Collection"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Hosted By"
+                    },
+                    "value": {
+                        "en": "INHA"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Unique ID"
+                    },
+                    "value": {
+                        "en": "62754"
+                    }
+                },
+                {
+                    "label": {
+                        "en": "Language"
+                    },
+                    "value": {
+                        "en": "French"
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "circa 1888"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "HasImages",
+                            "hasEngraves",
+                            "hasMaps"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "false",
+                            "false",
+                            "true"
+                        ]
+                    }
+                }
+            ]
+        }
     ]
 }
